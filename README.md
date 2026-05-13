@@ -1,7 +1,7 @@
 # Class Select Mod
 
 **Author:** Thomas  
-**Version:** 1.1  
+**Version:** 1.1.1
 **Game:** The Elder Scrolls V: Skyrim Special Edition
 
 ---
