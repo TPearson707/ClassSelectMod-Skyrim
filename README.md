@@ -26,6 +26,9 @@ Class Select adds an interactive button to Honeyside in Riften that allows you t
 
 ## Changelog
 
+### v1.1.1
+- Added cancel option to class selection menu
+
 ### v1.1
 - Warriors now receive health potions
 - Thieves now receive lockpicks
